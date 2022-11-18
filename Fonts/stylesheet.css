@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Foreman';
+    src: url('ForemanBold.woff2') format('woff2'),
+        url('ForemanBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
